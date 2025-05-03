@@ -1,0 +1,54 @@
+scene=QuonsetGasStation
+item=GEAR_CannedCorn p=8.9719,1.2024,4.6960 r=-0.0000,133.6581,-0.0000 c=35
+item=GEAR_CannedCorn p=8.8141,1.2624,4.8766 r=90.0000,63.2057,0.0000 c=25
+
+scene=RuralStoreA
+item=GEAR_CannedCorn p=-1.7647,0.4512,0.3216 r=-0.0000,175.1486,90.0001 c=35
+item=GEAR_CannedCorn p=-1.5241,0.3912,0.3683 r=0.0000,202.2623,0.0000 c=25
+
+scene=ConvenienceStoreA
+item=GEAR_CannedCorn p=-1.3678,1.2024,1.1966 r=-0.0000,90.2728,-0.0000 c=35
+item=GEAR_CannedCorn p=-1.4961,1.2024,1.2686 r=-0.0000,159.7841,-0.0000 c=25
+
+scene=WoodCabinB
+item=GEAR_CannedCorn p=1.2507,0.9494,0.9183 r=-0.0000,134.0899,-0.0000 c=25
+
+scene=HuntingLodgeA
+item=GEAR_CannedCorn p=-8.1372,1.0796,4.2294 r=-0.0000,36.5811,-0.0000 c=20
+
+scene=WhalingStationRegion
+item=GEAR_CannedCorn p=565.9443,63.2418,1107.1152 r=0.4516,306.7753,270.0081 c=20
+
+scene=RiverValleyRegion
+item=GEAR_CannedCorn p=1178.4259,196.1850,778.2687 r=7.1207,171.3313,295.7352 c=20
+
+scene=FarmHouseB
+item=GEAR_CannedCorn p=-1.7717,1.5169,2.9108 r=-0.0000,107.4314,-0.0000 c=20
+
+scene=RuralRegion
+item=GEAR_CannedCorn p=2329.2668,54.1073,2263.4175 r=36.0113,333.9990,305.1771 c=50
+item=GEAR_CannedCorn p=2330.1577,54.0640,2263.0996 r=68.6999,42.1214,350.6808 c=25
+
+scene=MountainPassRegion
+item=GEAR_CannedCorn p=-338.2820,601.4331,-997.8165 r=1.1027,201.3275,270.5237 c=20
+
+scene=PrepperCacheB
+item=GEAR_CannedCorn p=2.5594,1.1756,1.9964 r=-0.0000,32.2671,-0.0000 c=60
+
+scene=PrepperCacheD
+item=GEAR_CannedCorn p=-0.9851,0.8089,1.7242 r=0.0000,311.4642,0.0000 c=60
+
+
+
+# UNIVERSAL #
+scene=MiltonHouseA
+item=GEAR_CannedCorn p=-4.6753,2.1834,-3.2021 r=-0.0000,169.7150,-0.0000 c=20
+
+scene=MiltonHouseC
+item=GEAR_CannedCorn p=-8.3215,1.8323,-1.7416 r=0.0000,321.9359,0.0000 c=20
+
+scene=CoastalHouseA
+item=GEAR_CannedCorn p=-0.8108,1.1162,-1.5893 r=-0.0000,161.1991,-0.0000 c=20
+
+scene=CoastalHouseB
+item=GEAR_CannedCorn p=-3.6071,1.5992,3.5146 r=0.0000,300.9094,0.0000 c=20

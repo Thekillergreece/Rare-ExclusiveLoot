@@ -1,0 +1,48 @@
+scene=QuonsetGasStation
+item=GEAR_Pickles p=5.7623,0.6025,4.0708 r=0.0000,240.2635,0.0000 c=35
+item=GEAR_Pickles p=6.0431,0.0402,4.1413 r=-0.0000,247.9223,269.9999 c=25
+
+scene=RuralStoreA
+item=GEAR_Pickles p=-2.4438,0.0402,-2.9369 r=-0.0000,31.3615,270.0000 c=35
+item=GEAR_Pickles p=-2.0592,0.3896,-0.4507 r=-0.0000,15.0540,-0.0000 c=25
+
+scene=ConvenienceStoreA
+item=GEAR_Pickles p=-1.3280,0.3996,1.2273 r=0.0000,349.8391,0.0000 c=35
+item=GEAR_Pickles p=-1.4723,0.3996,1.2861 r=0.0000,228.7149,0.0000 c=25
+
+scene=MiningRegion
+item=GEAR_Pickles p=483.0964,243.1538,187.4187 r=1.2105,298.1712,0.0660 c=25
+
+scene=FarmhouseABasement
+item=GEAR_Pickles p=-0.0472,2.4906,-8.8574 r=0.0000,318.9393,0.0000 c=25
+
+scene=RadioControlHut
+item=GEAR_Pickles p=2.3125,0.0152,3.2639 r=0.0000,331.5477,0.0000 c=25
+
+scene=RuralRegion
+item=GEAR_Pickles p=2327.0854,53.7805,2255.1487 r=10.2512,259.2776,56.3554 c=50
+item=GEAR_Pickles p=2326.8811,53.6463,2255.4287 r=352.2048,103.8021,11.7663 c=25
+
+
+
+# UNIVERSAL #
+scene=TrailerD
+item=GEAR_Pickles p=0.2062,1.2523,-1.8110 r=3.8563,52.4614,357.0310 c=20
+
+scene=TrailerB
+item=GEAR_Pickles p=0.4666,1.0104,-1.9220 r=0.0000,256.4034,0.0000 c=20
+
+scene=CoastalHouseB
+item=GEAR_Pickles p=-3.4150,1.2521,3.4739 r=0.0000,265.2645,0.0000 c=20
+
+scene=CoastalHouseC
+item=GEAR_Pickles p=-4.2963,0.8710,3.2939 r=0.0000,350.8276,0.0000 c=20
+
+scene=WoodCabinA
+item=GEAR_Pickles p=-1.6097,0.2713,3.0569 r=90.0000,2.2854,0.0000 c=20
+
+scene=LakeCabinC
+item=GEAR_Pickles p=-1.7740,0.0155,2.2974 r=0.0000,268.8126,0.0000 c=20
+
+scene=FishingCabinC
+item=GEAR_Pickles p=2.2138,0.0351,-3.2643 r=-0.0000,13.4013,-0.0000 c=20

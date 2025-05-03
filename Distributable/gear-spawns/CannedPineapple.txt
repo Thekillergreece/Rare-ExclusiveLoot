@@ -1,0 +1,54 @@
+scene=QuonsetGasStation
+item=GEAR_CannedPineapple p=5.4805,0.6073,3.7364 r=-0.0000,39.3409,-0.0000 c=35
+item=GEAR_CannedPineapple p=5.3604,0.6073,3.6393 r=0.0000,282.4001,0.0000 c=25
+
+scene=RuralStoreA
+item=GEAR_CannedPineapple p=-1.3105,0.3912,-0.3531 r=0.0000,329.0359,0.0000 c=35
+item=GEAR_CannedPineapple p=-1.2447,0.4512,-0.5277 r=-0.0000,340.9687,90.0000 c=25
+
+scene=ConvenienceStoreA
+item=GEAR_CannedPineapple p=-1.6680,0.4012,1.1245 r=0.0000,199.2468,0.0000 c=35
+item=GEAR_CannedPineapple p=-1.7207,0.4012,1.2559 r=-0.0000,98.8684,-0.0000 c=25
+
+scene=AshCanyonRegion
+item=GEAR_CannedPineapple p=247.3644,261.1032,426.7911 r=27.7660,127.8420,0.1253 c=20
+
+scene=MarshRegion
+item=GEAR_CannedPineapple p=474.1268,-121.9154,51.3622 r=-0.0000,114.4216,-0.0000 c=20
+
+scene=LakeRegion
+item=GEAR_CannedPineapple p=789.4984,214.6888,966.6855 r=270.0000,42.4177,0.0000 c=20
+
+scene=RuralRegion
+item=GEAR_CannedPineapple p=2335.1460,54.1596,2260.3950 r=-0.0000,67.5075,-0.0000 c=50
+item=GEAR_CannedPineapple p=2335.0505,54.1596,2260.2693 r=0.0000,342.7029,0.0000 c=25
+
+scene=FarmHouseA
+item=GEAR_CannedPineapple p=0.8160,0.0018,-0.5158 r=-0.0000,103.0682,-0.0000 c=20
+
+scene=PrepperCacheB
+item=GEAR_CannedPineapple p=2.4679,1.1756,1.9283 r=-0.0000,31.4639,-0.0000 c=60
+
+scene=PrepperCacheD
+item=GEAR_CannedPineapple p=-2.2651,1.6014,-1.4095 r=0.0000,226.0681,0.0000 c=60
+
+scene=HubRegion
+item=GEAR_CannedPineapple p=132.7063,253.0204,404.6883 r=0.0000,316.0196,0.0000 c=20
+
+scene=MiningRegion
+item=GEAR_CannedPineapple p=481.2689,242.9004,194.7906 r=1.1627,282.3140,359.7231 c=20
+
+
+
+# UNIVERSAL #
+scene=LakeCabinF
+item=GEAR_CannedPineapple p=2.2540,1.4534,0.4092 r=-0.0000,90.4792,-0.0000 c=20
+
+scene=LakeCabinA
+item=GEAR_CannedPineapple p=2.1227,1.6731,-0.8349 r=0.3792,58.6366,0.6254 c=20
+
+scene=CoastalHouseE
+item=GEAR_CannedPineapple p=-0.9633,1.1022,-1.1046 r=-0.0000,35.9237,-0.0000 c=20
+
+scene=MiltonHouseF3
+item=GEAR_CannedPineapple p=-3.6291,1.6933,0.2810 r=0.0000,316.3911,0.0000 c=20

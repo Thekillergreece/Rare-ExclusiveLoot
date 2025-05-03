@@ -1,0 +1,12 @@
+scene=BlackrockPrisonSurvivalZone
+item=GEAR_BottleCaffeine p=-148.9540,230.7146,83.2971 r=0.0000,340.5056,0.0000 c=70
+item=GEAR_BottleVitaminC p=-148.9944,230.7138,83.1958 r=0.0000,196.1709,0.0000 c=70
+
+scene=LakeRegion
+item=GEAR_BottleCaffeine p=791.5247,214.0880,968.1119 r=90.0000,75.1007,0.0000 c=25
+item=GEAR_BottleVitaminC p=791.6133,214.0708,967.9200 r=0.9818,334.8487,0.4339 c=25
+
+scene=CanneryRegion
+item=GEAR_BottleCaffeine p=299.5997,240.5587,353.8789 r=-0.0000,34.2496,-0.0000 c=25
+item=GEAR_BottleVitaminC p=299.9060,239.4254,351.6276 r=90.0000,270.6111,0.0000 c=25
+

@@ -1,0 +1,37 @@
+#-------------------------
+loottable=CargoFoodA
+#-------------------------
+item=Pickles w=3
+item=CannedPineapple w=3
+
+#-------------------------
+loottable=CargoFoodB
+#-------------------------
+item=CannedCorn w=3
+item=CannedHam w=3
+
+#-------------------------
+loottable=CargoFoodC
+#-------------------------
+item=DriedApples w=3
+
+#-------------------------
+loottable=CargoFoodRareA
+#-------------------------
+item=Cereal_A w=1
+
+#-------------------------
+loottable=CargoFoodRareB
+#-------------------------
+item=Cereal_A w=1
+
+#-------------------------
+loottable=CargoFoodRareC
+#-------------------------
+item=Cereal_A w=1
+
+#-------------------------
+loottable=CargoMedicalRare
+#-------------------------
+item=BottleCaffeine w=1
+item=BottleVitaminC w=1

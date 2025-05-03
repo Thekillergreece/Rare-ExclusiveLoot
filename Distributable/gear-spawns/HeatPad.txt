@@ -1,0 +1,14 @@
+scene=AshMine
+item=GEAR_HeatPad p=-134.8177,-56.0596,231.4109 r=-0.0000,40.1127,-0.0000 c=50
+
+scene=BlackrockMineA
+item=GEAR_HeatPad p=-89.5893,-62.6577,234.3038 r=1.7555,359.1273,354.3379 c=50
+
+scene=AirfieldRegion
+item=GEAR_HeatPad p=93.9366,178.4522,-443.7930 r=0.0000,214.5373,0.0000 c=50
+
+scene=RiverValleyRegion
+item=GEAR_HeatPad p=1175.6260,195.6717,779.2255 r=5.5297,9.0989,11.9739 c=50
+
+scene=RadarBuilding
+item=GEAR_HeatPad p=-2.2175,1.2555,0.2731 r=-0.0000,150.2545,-0.0000 c=50

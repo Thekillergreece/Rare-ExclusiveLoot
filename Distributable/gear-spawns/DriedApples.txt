@@ -1,0 +1,32 @@
+scene=QuonsetGasStation
+item=GEAR_DriedApples p=8.3363,1.6012,0.1809 r=-0.0000,0.1022,-0.0000 c=40
+
+scene=RuralStoreA
+item=GEAR_DriedApples p=-3.0097,1.8701,1.7143 r=-0.0000,89.7944,-0.0000 c=50
+item=GEAR_DriedApples p=-3.0097,1.8681,2.2018 r=-0.0000,85.9231,-0.0000 c=35
+
+scene=ConvenienceStoreA
+item=GEAR_DriedApples p=-6.4737,1.2716,0.0145 r=-0.0000,94.6712,-0.0000 c=40
+
+scene=PrepperCacheB
+item=GEAR_DriedApples p=-1.5367,2.4028,-1.5552 r=-0.0000,47.0920,-0.0000 c=60
+
+scene=PrepperCacheD
+item=GEAR_DriedApples p=1.7966,0.0288,-6.1422 r=0.0000,310.5037,0.0000 c=60
+
+scene=HubRegion
+item=GEAR_DriedApples p=128.5443,252.6760,405.3347 r=270.0000,66.6526,0.0000 c=20
+
+scene=MiningRegion
+item=GEAR_DriedApples p=447.1279,240.3252,235.6483 r=0.0000,250.7467,0.0000 c=20
+
+scene=RuralRegion
+item=GEAR_DriedApples p=2326.1313,54.0453,2248.7742 r=273.8557,302.1717,82.7498 c=75
+item=GEAR_DriedApples p=2326.0793,54.0253,2248.9067 r=-0.0000,173.1808,-0.0000 c=65
+item=GEAR_DriedApples p=2325.9180,54.0253,2248.8616 r=-0.0000,24.9620,-0.0000 c=35
+
+scene=BarnHouseB
+item=GEAR_DriedApples p=0.6043,1.4256,14.6622 r=-0.0000,129.7353,-0.0000 c=35
+
+scene=FarmHouseA
+item=GEAR_DriedApples p=1.1944,1.5974,3.5633 r=0.0000,233.8906,0.0000 c=35

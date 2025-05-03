@@ -1,0 +1,65 @@
+scene=QuonsetGasStation
+item=GEAR_CannedHam p=4.7110,0.6155,3.7054 r=-0.0000,159.9890,-0.0000 c=40
+
+scene=RuralStoreA
+item=GEAR_CannedHam p=-1.9830,0.3894,0.6044 r=-0.0000,150.2551,-0.0000 c=40
+
+scene=ConvenienceStoreA
+item=GEAR_CannedHam p=-0.6786,1.9169,1.2195 r=-0.0000,39.9088,-0.0000 c=40
+
+scene=AshWoodCabinA
+item=GEAR_CannedHam p=-0.8078,1.3309,3.2514 r=0.0000,327.8318,0.0000 c=20
+
+scene=AshMine
+item=GEAR_CannedHam p=-128.2531,-57.1350,172.6027 r=359.9727,350.7054,0.7494 c=20
+
+scene=CanneryRegion
+item=GEAR_CannedHam p=299.4981,239.4482,348.0400 r=-0.0000,56.8266,-0.0000 c=20
+
+scene=RadioControlHutB
+item=GEAR_CannedHam p=1.6418,1.7689,-0.0738 r=-0.0000,65.8430,-0.0000 c=20
+
+scene=HuntingLodgeA
+item=GEAR_CannedHam p=1.6839,0.9745,0.5436 r=0.0000,317.6197,0.0000 c=20
+
+scene=BlackrockPrisonSurvivalZone
+item=GEAR_CannedHam p=-106.1300,225.5055,99.5257 r=-0.0000,106.8584,-0.0000 c=20
+
+scene=LighthouseA
+item=GEAR_CannedHam p=1.7412,4.0600,1.1536 r=60.0013,3.6362,0.0000 c=20
+
+scene=WhalingShipA
+item=GEAR_CannedHam p=-3.8632,5.6292,-12.0493 r=346.2033,80.5594,2.4008 c=20
+
+scene=AFHangar
+item=GEAR_CannedHam p=-22.0745,4.6941,4.8699 r=359.2625,64.3208,358.5499 c=20
+
+scene=CampOffice
+item=GEAR_CannedHam p=-5.1111,1.0328,-3.1718 r=-0.0000,146.4879,-0.0000 c=20
+
+scene=GreyMothersHouseA
+item=GEAR_CannedHam p=-2.1352,0.1003,5.2347 r=0.1276,62.8819,0.2491 c=20
+
+scene=CommunityHallA
+item=GEAR_CannedHam p=-4.2955,0.5935,4.5311 r=-0.0000,31.9033,-0.0000 c=20
+
+scene=PrepperCacheB
+item=GEAR_CannedHam p=2.9658,1.1144,1.4536 r=0.0000,338.6881,0.0000 c=60
+
+scene=PrepperCacheD
+item=GEAR_CannedHam p=-0.7533,0.8070,1.7271 r=0.0000,320.6095,0.0000 c=60
+
+
+
+# UNIVERSAL #
+scene=TrailerC
+item=GEAR_CannedHam p=3.0486,1.4516,-1.8459 r=-0.0000,34.5077,-0.0000 c=20
+
+scene=TrailerE
+item=GEAR_CannedHam p=0.6901,1.2616,-1.8562 r=-0.0000,19.0903,-0.0000 c=20
+
+scene=WoodCabinA
+item=GEAR_CannedHam p=-1.6053,0.9059,1.2600 r=0.0000,228.9102,0.0000 c=20
+
+scene=LakeCabinB
+item=GEAR_CannedHam p=2.3113,1.4187,-0.2666 r=-0.0000,36.3897,-0.0000 c=20

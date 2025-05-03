@@ -1,0 +1,35 @@
+scene=QuonsetGasStation
+item=GEAR_Cereal_A p=8.9216,0.3994,5.7729 r=0.0000,301.7961,0.0000 c=40
+
+scene=RuralStoreA
+item=GEAR_Cereal_A p=1.3785,0.3854,-4.0463 r=-0.0000,14.6128,-0.0000 c=40
+
+scene=ConvenienceStoreA
+item=GEAR_Cereal_A p=-6.0034,0.3994,2.8818 r=-0.0000,106.8855,-0.0000 c=40
+
+scene=MiningRegion
+item=GEAR_Cereal_A p=481.8982,242.9316,192.4721 r=0.8653,38.3326,0.8491 c=40
+
+scene=FarmHouseB
+item=GEAR_Cereal_A p=3.3515,1.1176,6.2292 r=0.0000,180.0932,0.0000 c=40
+
+
+
+# UNIVERSAL #
+scene=CoastalHouseA
+item=GEAR_Cereal_A p=-0.5411,2.7789,-1.7949 r=270.0000,332.2736,0.0000 c=25
+
+scene=CoastalHouseC
+item=GEAR_Cereal_A p=-6.5156,1.1144,-2.0173 r=-0.0000,149.5155,-0.0000 c=25
+
+scene=CoastalHouseD
+item=GEAR_Cereal_A p=-1.8983,0.2304,3.0584 r=-0.0000,61.7453,-0.0000 c=25
+
+scene=CoastalHouseF
+item=GEAR_Cereal_A p=-4.4811,0.2164,-1.5192 r=-0.0000,2.8970,-0.0000 c=25
+
+scene=MiltonHouseC
+item=GEAR_Cereal_A p=-5.6673,-0.0000,-5.2615 r=-0.0000,1.6861,-0.0000 c=25
+
+scene=MiltonHouseF3
+item=GEAR_Cereal_A p=-4.5232,0.2164,-1.5097 r=-0.0000,3.3966,-0.0000 c=25
